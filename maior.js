@@ -1,5 +1,7 @@
-//Exercicio:
-//Defina a função eMaior, que recebe dois números por parâmetro, e retorna o maior entre eles.
+/*
+Exercicio:
+Defina a função eMaior, que recebe dois números por parâmetro, e retorna o maior entre eles.
+*/
 
 function eMaior(numeroA, numeroB){
     if (numeroA > numeroB){
